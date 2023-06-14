@@ -4,8 +4,8 @@ import instaloader
 L = instaloader.Instaloader()
 
 # Login or load session
-username = '' # your username
-password = '' # your password
+username = 'j_gedd_' # your username
+password = 'wouldntyouliketoknowweatherboy' # your password
 L.login(username, password) # (login)
 
 # Obtain profile metadata
